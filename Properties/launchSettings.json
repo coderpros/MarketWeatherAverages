@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MarketWeatherAverages": {
+      "commandName": "Project",
+      "commandLineArgs": "2015-01-01 2015-12-31 /source \"D:\\Data\\Console app counties.csv\" /destination \"D:\\Data\\MarketWeatherAverages.csv\" /standard"
+    }
+  }
+}
